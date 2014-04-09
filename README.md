@@ -6,4 +6,4 @@ This is a simple android-webview-sample for android development studying and als
 
 ## Screenshot
 
-![settings](https://github.com/luisxiaomai/android-webview-sample/master/doc/img/shelloworld.png)
+![settings](https://raw.github.com/luisxiaomai/android-webview-sample/master/doc/img/helloworld.png)
