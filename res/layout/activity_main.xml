@@ -24,7 +24,7 @@
         android:layout_alignParentTop="true"
         android:layout_toLeftOf="@+id/button1"
         android:ems="10"
-        android:hint="请输入url。。。" >
+        android:hint="请输入url" >
 
         <requestFocus />
     </EditText>
